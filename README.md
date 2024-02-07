@@ -1,6 +1,6 @@
 <h1 align="center"> ✯ namegenliang的Github仓库 ✯ </h1>
 <div align=center>
-<img src=https://github-readme-stats.vercel.app/api?username=namegenliang&show_icons=true&theme=transparent>
+<img src=https://github-readme-stats.vercel.app/api?username=namegenliang&show_icons=true&theme=dark>
 </div>
 
 <!---
